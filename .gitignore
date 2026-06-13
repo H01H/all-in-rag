@@ -71,3 +71,7 @@ rag/
 # LLM API keys
 *.key
 *.secret
+code/C3/volumes/
+__pycache__/
+*.pyc
+.env
